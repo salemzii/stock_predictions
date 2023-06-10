@@ -10,7 +10,7 @@ idna==3.4
 keras
 lxml==4.9.2
 multitasking==0.0.11
-numpy==1.24.3
+numpy
 pandas
 pandas-datareader
 pycparser
