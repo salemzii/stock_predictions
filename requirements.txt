@@ -18,7 +18,7 @@ python-dateutil
 pytz==2023.3
 requests==2.31.0
 six==1.16.0
-sklearn
+scikit-learn
 soupsieve
 tzdata==2023.3
 urllib3==2.0.2
